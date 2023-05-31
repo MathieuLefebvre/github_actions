@@ -1,3 +1,4 @@
+#ok
 name: Multiple shells commands
 on:
   push:
